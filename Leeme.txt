@@ -1,0 +1,11 @@
+Que tal muchacho este sera el repositorio para practicar sobre java 
+
+primeramente recomiendo que lean el archivo code conventions que les adjunte 
+
+esto les ayudara a poder escribir correctamente en java y es necesario aprenderlo
+
+aca tambien les deje una serie de ejercicios para que resuelvan a medida que vayan resolviendo subanlo 
+
+para revisar entre todos y ver si se puede mejorar tambien 
+
+creense una carpeta y subanlo ahi los ejercicios que resuelvan 

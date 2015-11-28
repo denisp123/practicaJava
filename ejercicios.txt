@@ -1,0 +1,58 @@
+1) diseñar un programa que me permita saber si una cadena insertada es palindrome 
+   este programa solo debe permitir n intentos que digite el usuario y luego terminar
+   ojo el intento fallido y acertado cuenta como intento  
+
+entrada -> 121 
+salida  -> es palindrome
+entrada -> reconocer 
+salida  -> es palindrome
+entrada -> amanecer 
+salida  -> no es palindrome
+
+2) se tiene una cadena y se requiere representar el numero de veces que se repite una letra 
+con * para la solucion de este problema solo se permite utilizar el for solo una vez 
+
+entrada "habia una vez un pajarito que queria volar pero no podia ";
+
+salida 
+
+a  -> ********
+b  -> *
+c  -> 
+d  -> *
+.
+.
+.
+.
+z  ->
+
+3) se pide realizar un conversor de morse, ascii, griego las letras del abecedario
+entrada
+
+1) convertir a morse
+2) convertie a ascii
+3) convertir a griego(alfabeto griego solo te muestra el simbolo que representa a es alpha ) 
+
+seleccionar una opcion : 1
+
+salida
+
+digite una letra : a
+es en morse : .-
+digite una letra : b
+es en morse -...
+digite una letra : 
+fin
+
+4) se tiene la siguiente entrada
+
+ _    _  _     _  _ _  _
+| | | _| _||_||_ |_  ||_|
+|_| ||_  _|  | _||_| ||_|
+
+y se quiere la siguiente salida
+
+012345678
+
+se pide que lo haga mientras haya algo que evaluar 
+
